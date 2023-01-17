@@ -1,6 +1,8 @@
 # controle-de-corrida (controle-de-corrida)
 
-A Quasar Project
+
+## GERENCIADOR DE PACOTE PADRÃO
+  - NPM
 
 ## Install the dependencies
 ```bash
